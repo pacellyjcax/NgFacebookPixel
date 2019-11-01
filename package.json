@@ -1,6 +1,24 @@
 {
   "name": "ng-facebook-pixel",
   "version": "0.0.1",
+  "description": "0.0.1",
+  "author": "0.0.1",
+  "homepage": "https://github.com/pacellyjcax/NgFacebookPixel",
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "facebook",
+    "pixel",
+    "pageview",
+    "analytics"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pacellyjcax/NgFacebookPixel"
+  },
+  "bugs": {
+    "url": "https://github.com/pacellyjcax/NgFacebookPixel/issues"
+  },
   "peerDependencies": {
     "@angular/common": "^7.2.0",
     "@angular/core": "^7.2.0"
